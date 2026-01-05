@@ -1,4 +1,4 @@
-# Collision-based Watermark for Detecting Backdoor Manipulation in Federated Learning
-This is the official implementation of our paper 'Collision-based Watermark for Detecting Backdoor Manipulation in Federated Learning'.
+# Coward: Collision-based Watermark for Proactive Federated Backdoor Detection
+This is the official implementation of our paper 'Coward: Collision-based Watermark for Proactive Federated Backdoor Detection'.
 
 The codes will be released upon the acceptance of this paper.
